@@ -4,6 +4,7 @@
 ## PRIMERA EVALUACIÓN PARCIAL
 ## PROF. MARCIANO ALBERTO MORENO DÍAZ COVARRUBIAS
 
+* Ejecutar el comando `npm run serve` para correr la implementación. En este commit funciona de manera exitosa.
 
 ## Introducción
 Esta primera evaluación parcial abarca los siguientes conceptos:
